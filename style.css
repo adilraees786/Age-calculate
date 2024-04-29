@@ -119,3 +119,14 @@ transition-duration: 1s;
     cursor: pointer;
 transform: scale(1.1);
 }
+
+.footer{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+background-color: black;
+color: white;
+padding: 10px;
+
+
+}
